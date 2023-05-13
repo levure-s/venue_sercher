@@ -2,7 +2,7 @@ name: venue_sercher
 description: A new Flutter project.
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
-version: 1.0.0+1
+version: 1.0.0+2
 
 environment:
   sdk: ">=2.19.2 <3.0.0"
@@ -16,6 +16,7 @@ dependencies:
   google_places_flutter: ^2.0.5
   flutter_google_places_sdk: ^0.3.2+6
   url_launcher: ^6.1.10
+  sentry_flutter: ^7.5.2
 
 dev_dependencies:
   flutter_test:
